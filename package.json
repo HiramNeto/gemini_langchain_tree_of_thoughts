@@ -1,0 +1,20 @@
+{
+  "name": "aiagentreact_langgraph_gemini_tavily",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "langgraph dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/community": "^0.3.39",
+    "@langchain/core": "^0.3.43",
+    "@langchain/google-genai": "^0.2.2",
+    "@langchain/langgraph": "^0.2.63",
+    "langchain": "^0.3.20"
+  },
+  "type": "module"
+}
